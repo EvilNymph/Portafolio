@@ -1,0 +1,15 @@
+﻿<Window x:Class="TurismoReal.Mantenedor_Depto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TurismoReal"
+        mc:Ignorable="d"
+        Title="Mantenedor_Depto" Height="450" Width="800">
+    <Grid>
+        <Label Content="nombre" HorizontalAlignment="Left" Margin="23,35,0,0" VerticalAlignment="Top"/>
+        <Label Content="N°" HorizontalAlignment="Left" Margin="326,35,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.605,-0.577"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="23,97,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
